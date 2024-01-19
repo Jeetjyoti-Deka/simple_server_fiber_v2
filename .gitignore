@@ -1,0 +1,8 @@
+# Ignore compiled binaries and executables
+/bin/
+/*.exe
+/*.o
+/*.out
+
+# Ignore dependency directories
+/vendor/
