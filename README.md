@@ -8,11 +8,6 @@ This repository contains a simple Go server built with the Fiber web framework.
 - Utilizes Fiber, an Express.js inspired web framework for Go.
 - Quick and easy setup.
 
-## Requirements
-
-- Go (version X.X.X)
-- Fiber (version X.X.X)
-
 ## Installation
 
 1. **Clone the repository:**
